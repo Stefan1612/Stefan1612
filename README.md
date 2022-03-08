@@ -1,5 +1,6 @@
-### Hi there 👋
 
+
+### Hi there 👋
 <!--
 **Stefan1612/Stefan1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👯 I’m looking to collaborate on Hackathons/Bounties/Grants
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Stefan1612&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stefan1612)](https://github.com/anuraghazra/github-readme-stats)
