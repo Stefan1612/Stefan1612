@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-- 👯 I’m looking to collaborate on Hackathons/Bounties/Grants
+
 ## [My Website](https://simpleblock.net/) 
 #### [My Stack](https://simpleblock.net/about/) 
 #### [My Blogs](https://simpleblock.net/blog/) 
