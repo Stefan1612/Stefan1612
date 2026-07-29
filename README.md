@@ -3,11 +3,7 @@
 ### Hi there 👋
 
 ## [My Website](https://simpleblock.net/) 
-#### [My Stack](https://simpleblock.net/about/) 
-#### [My Blogs](https://simpleblock.net/blog/) 
-#### [My Work](https://simpleblock.net/work/) 
-#### [My Story](https://simpleblock.net/about/) 
-#### [Contact Me](https://simpleblock.net/contact-me/) 
+
 <!--#### My Wesbite [SimpleBlock](https://simpleblock.net/) - Portfolio, Blogs, Videos(Work in progress)
 <!--
 **Stefan1612/Stefan1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
